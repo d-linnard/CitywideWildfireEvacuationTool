@@ -19,10 +19,11 @@
 - Steps 1:
   - Go to the director where you will be creating react app (i.e., something that will take your data and display on the web).
   - `create-react-app [name of your application]`
+  - `egress_summayr` is the folder name (i.e., app name)
 
 ```{python}
 create-react-app egress_summary
-cd counter-app
+cd egress_summary
 npm start
 ```
 
