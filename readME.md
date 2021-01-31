@@ -1,3 +1,15 @@
+## Objective
+
+> To display the result of the analysis via interactive map
+> react and kepler.gl
+  - city and roadway network information
+  - city level ranking based on statistics
+    - egress travel time
+    - roadway resiliance
+    - network connectivity
+    - based on fire risk
+    
+
 ## System requirement:
 - install `Node js`
 - Need to have `text editor`
