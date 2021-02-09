@@ -1,6 +1,17 @@
-## Kepler.gl
+## Kepler.gl  Changed to Unfolded.ai
 
 http://vis.academy/#/kepler.gl/setup
+
+Joint slack channel: https://unfolded.page.link/slack-signup
+
+Step 1:
+
+https://reactjs.org/tutorial/tutorial.html
+
+Step 2:
+They recommend we use these links to get started:
+facebook/create-react-app
+https://docs.unfolded.ai/map-sdk/examples/use-with-react
 
 ## MapBox API
 
