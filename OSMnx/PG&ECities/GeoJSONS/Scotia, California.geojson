@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 58.8204154, "bbox_south": 58.8202192, "bbox_east": -2.9796916, "bbox_west": -2.9800137, "place_id": 256732895, "osm_type": "way", "osm_id": 876216490, "lat": 58.8203198, "lon": -2.9798487419205673, "display_name": "California, B9043, Roeberry, South Ronaldsay, St Margaret's Hope, Orkney Islands, Scotland, KW17 2TW, United Kingdom", "class": "building", "type": "house", "importance": 0.111 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -2.9800137, 58.8202683 ], [ -2.9797958, 58.8202192 ], [ -2.9796916, 58.8203713 ], [ -2.9798906, 58.8204154 ], [ -2.9800137, 58.8202683 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 37.3468925, "bbox_south": 37.346273, "bbox_east": -121.8971132, "bbox_west": -121.8981102, "place_id": 174691401, "osm_type": "way", "osm_id": 358297113, "lat": 37.34658755, "lon": -121.89761030021054, "display_name": "The Maxwell, Japantown, San Jose, Santa Clara County, California, United States", "class": "landuse", "type": "residential", "importance": 0.41 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.8981102, 37.3465155 ], [ -121.8979416, 37.346273 ], [ -121.8975481, 37.346455 ], [ -121.8971132, 37.3466596 ], [ -121.8972884, 37.3468925 ], [ -121.8976838, 37.3467125 ], [ -121.8981102, 37.3465155 ] ] ] } }
+]
+}

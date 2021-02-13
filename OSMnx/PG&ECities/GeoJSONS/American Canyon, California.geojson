@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.226037, "bbox_south": 38.221601, "bbox_east": -122.226348, "bbox_west": -122.227735, "place_id": 99530287, "osm_type": "way", "osm_id": 33073777, "lat": 38.223457, "lon": -122.22704307123536, "display_name": "American Canyon, Napa County, California, United States", "class": "boundary", "type": "administrative", "importance": 0.74919785679114925 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.227735, 38.226026 ], [ -122.227734, 38.225306 ], [ -122.227726, 38.221608 ], [ -122.226362, 38.221601 ], [ -122.226348, 38.226037 ], [ -122.226485, 38.226036 ], [ -122.227735, 38.226026 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.6826713, "bbox_south": 38.6772574, "bbox_east": -121.9637124, "bbox_west": -121.9739005, "place_id": 99029048, "osm_type": "way", "osm_id": 32322297, "lat": 38.6793483, "lon": -121.9683023, "display_name": "Madison, Yolo County, California, 95653, United States", "class": "place", "type": "hamlet", "importance": 0.47 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.9739005, 38.6779744 ], [ -121.9682099, 38.6772574 ], [ -121.9679524, 38.6781955 ], [ -121.9643991, 38.6782625 ], [ -121.9637124, 38.6813782 ], [ -121.9728362, 38.6826713 ], [ -121.9739005, 38.6779744 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 37.331416, "bbox_south": 37.3310047, "bbox_east": -121.9101643, "bbox_west": -121.9103305, "place_id": 147041064, "osm_type": "way", "osm_id": 231523056, "lat": 37.3312776, "lon": -121.91025059134219, "display_name": "NELSON, 1036, The Alameda, Buena Vista, San Jose, Santa Clara County, California, 95126, United States", "class": "office", "type": "architect", "importance": 0.211 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.9103305, 37.331411 ], [ -121.9103057, 37.3310047 ], [ -121.9101643, 37.3310101 ], [ -121.9101695, 37.3311442 ], [ -121.9101885, 37.331416 ], [ -121.9103305, 37.331411 ] ] ] } }
+]
+}

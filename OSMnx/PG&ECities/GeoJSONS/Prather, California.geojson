@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 37.0373569, "bbox_south": 37.0371504, "bbox_east": -119.5156967, "bbox_west": -119.5159609, "place_id": 161702281, "osm_type": "way", "osm_id": 292517473, "lat": 37.03725365, "lon": -119.5158288, "display_name": "Prather, Morgan Canyon Road, Prather, Fresno County, California, 93602, United States", "class": "amenity", "type": "post_office", "importance": 0.221 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -119.5159609, 37.0372843 ], [ -119.5158756, 37.0371504 ], [ -119.5156967, 37.037223 ], [ -119.515782, 37.0373569 ], [ -119.5159609, 37.0372843 ] ] ] } }
+]
+}

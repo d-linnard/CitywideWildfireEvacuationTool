@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 32.3389985, "bbox_south": 32.3387341, "bbox_east": -117.055749, "bbox_west": -117.0560832, "place_id": 209894250, "osm_type": "way", "osm_id": 563960067, "lat": 32.33886805, "lon": -117.05591663388445, "display_name": "El Nido, Boulevard Benito Juárez García, Rosarito, Playas de Rosarito, Baja California, 22700, Mexico", "class": "amenity", "type": "restaurant", "importance": 0.301 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -117.0560832, 32.3389139 ], [ -117.0559853, 32.3387341 ], [ -117.055749, 32.3388222 ], [ -117.0558491, 32.3389985 ], [ -117.0560832, 32.3389139 ] ] ] } }
+]
+}

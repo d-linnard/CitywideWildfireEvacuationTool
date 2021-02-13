@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.2505691, "bbox_south": 38.2434255, "bbox_east": -121.9699208, "bbox_west": -121.9745482, "place_id": 98443760, "osm_type": "way", "osm_id": 33123040, "lat": 38.24582825, "lon": -121.97223398945439, "display_name": "Suisun City, Solano County, California, United States", "class": "boundary", "type": "administrative", "importance": 0.73962282009393032 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.9745482, 38.2434752 ], [ -121.9699748, 38.2434255 ], [ -121.9699208, 38.2505268 ], [ -121.9745066, 38.2505691 ], [ -121.9744747, 38.2481813 ], [ -121.9745482, 38.2434752 ] ] ] } }
+]
+}

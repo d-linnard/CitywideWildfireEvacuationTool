@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 43.542368, "bbox_south": 43.5411948, "bbox_east": 1.5097594, "bbox_west": 1.5082977, "place_id": 250831112, "osm_type": "way", "osm_id": 831213232, "lat": 43.5417974, "lon": 1.509000135906341, "display_name": "Le California, Labège, Toulouse, Haute-Garonne, Occitania, Metropolitan France, 31670, France", "class": "landuse", "type": "commercial", "importance": 0.3 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ 1.5082977, 43.541725 ], [ 1.5086105, 43.5414145 ], [ 1.5088315, 43.5411948 ], [ 1.5097016, 43.5416555 ], [ 1.5097278, 43.5416747 ], [ 1.5097394, 43.5416802 ], [ 1.5097462, 43.54168 ], [ 1.5097533, 43.5416787 ], [ 1.5097594, 43.5416773 ], [ 1.50969, 43.5417461 ], [ 1.5096683, 43.5417668 ], [ 1.5090642, 43.542368 ], [ 1.5090234, 43.5423311 ], [ 1.5087113, 43.5421068 ], [ 1.5085865, 43.5419961 ], [ 1.5083902, 43.541828 ], [ 1.5082977, 43.541725 ] ] ] } }
+]
+}

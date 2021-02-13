@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 34.4279224, "bbox_south": 34.3675289, "bbox_east": -116.9592485, "bbox_west": -116.9868451, "place_id": 139367081, "osm_type": "way", "osm_id": 203669913, "lat": 34.3912491, "lon": -116.97306649015343, "display_name": "Lucerne Valley, San Bernardino County, California, United States", "class": "natural", "type": "desert", "importance": 0.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -116.9868451, 34.4274971 ], [ -116.9859419, 34.3725589 ], [ -116.9804149, 34.3742373 ], [ -116.9768438, 34.3753218 ], [ -116.9721231, 34.3745425 ], [ -116.9599352, 34.3675289 ], [ -116.9598493, 34.4071764 ], [ -116.9649992, 34.4077607 ], [ -116.9647417, 34.4108764 ], [ -116.966115, 34.4137796 ], [ -116.9637117, 34.4206477 ], [ -116.9592485, 34.4246126 ], [ -116.9592485, 34.4279224 ], [ -116.9868451, 34.4274971 ] ] ] } }
+]
+}

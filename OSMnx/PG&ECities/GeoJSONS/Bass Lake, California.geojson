@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.6835361, "bbox_south": 38.6764655, "bbox_east": -121.0197632, "bbox_west": -121.0260093, "place_id": 195260428, "osm_type": "way", "osm_id": 468910971, "lat": 38.6799047, "lon": -121.02304505126428, "display_name": "Bass Lake, Bridlewood Canyon, Cameron Park, El Dorado County, California, United States", "class": "natural", "type": "water", "importance": 0.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.0260093, 38.6813155 ], [ -121.0254015, 38.6801919 ], [ -121.0259773, 38.6796175 ], [ -121.025433, 38.6786071 ], [ -121.0206529, 38.6764655 ], [ -121.0197632, 38.6766869 ], [ -121.0203381, 38.6790809 ], [ -121.0204499, 38.6805521 ], [ -121.0226221, 38.681562 ], [ -121.0224943, 38.6829708 ], [ -121.0224992, 38.6835361 ], [ -121.0232735, 38.6835339 ], [ -121.0237702, 38.6827388 ], [ -121.0260093, 38.6813155 ] ] ] } }
+]
+}

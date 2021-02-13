@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 33.6938731, "bbox_south": 33.6909715, "bbox_east": -117.9898593, "bbox_west": -117.993162, "place_id": 135268464, "osm_type": "way", "osm_id": 191502012, "lat": 33.69221355000001, "lon": -117.9923204108205, "display_name": "Five Points, La Bolsa, Huntington Beach, Orange County, California, United States", "class": "landuse", "type": "retail", "importance": 0.51 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -117.993162, 33.6933355 ], [ -117.9931352, 33.6910916 ], [ -117.9931134, 33.6910329 ], [ -117.993053, 33.690984 ], [ -117.9929841, 33.6909715 ], [ -117.9928986, 33.6910092 ], [ -117.9898593, 33.6936119 ], [ -117.9898727, 33.6936818 ], [ -117.9899482, 33.6937488 ], [ -117.9901093, 33.6938256 ], [ -117.9902805, 33.6938605 ], [ -117.9905927, 33.6938731 ], [ -117.9930295, 33.6938368 ], [ -117.993162, 33.6933355 ] ] ] } }
+]
+}

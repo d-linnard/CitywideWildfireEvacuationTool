@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.270472, "bbox_south": 38.269502, "bbox_east": -122.605578, "bbox_west": -122.606762, "place_id": 97534747, "osm_type": "way", "osm_id": 33159838, "lat": 38.270022, "lon": -122.60612241304348, "display_name": "Petaluma, Sonoma County, California, United States", "class": "boundary", "type": "administrative", "importance": 0.71934451217374851 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.606762, 38.269823 ], [ -122.606291, 38.269502 ], [ -122.605832, 38.269909 ], [ -122.605578, 38.270135 ], [ -122.606042, 38.270472 ], [ -122.606729, 38.269851 ], [ -122.606762, 38.269823 ] ] ] } }
+]
+}

@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.5081711, "bbox_south": 38.5076646, "bbox_east": -122.9642957, "bbox_west": -122.9650914, "place_id": 155218676, "osm_type": "way", "osm_id": 262192151, "lat": 38.5079469, "lon": -122.96474384426949, "display_name": "Korbel, River Road, El Bonita, Guerneville, Sonoma County, California, 95446, United States", "class": "craft", "type": "winery", "importance": 0.221 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -122.9650914, 38.5081711 ], [ -122.9649835, 38.5076646 ], [ -122.9642957, 38.507749 ], [ -122.9643092, 38.5078704 ], [ -122.9645789, 38.5080234 ], [ -122.9650914, 38.5081711 ] ] ] } }
+]
+}

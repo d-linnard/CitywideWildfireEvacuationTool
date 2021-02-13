@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 38.5482755, "bbox_south": 38.5396089, "bbox_east": -121.6758292, "bbox_west": -121.6944631, "place_id": 98124951, "osm_type": "way", "osm_id": 32323262, "lat": 38.5468508, "lon": -121.6941268, "display_name": "El Macero, Yolo County, California, United States", "class": "place", "type": "hamlet", "importance": 0.56 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -121.6944631, 38.5398036 ], [ -121.6759966, 38.5396089 ], [ -121.6758292, 38.5482093 ], [ -121.6942485, 38.5482755 ], [ -121.6944631, 38.5398036 ] ] ] } }
+]
+}

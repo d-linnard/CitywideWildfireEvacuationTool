@@ -1,0 +1,7 @@
+{
+"type": "FeatureCollection",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "bbox_north": 32.8756568, "bbox_south": 32.8752877, "bbox_east": -117.2205582, "bbox_west": -117.2216688, "place_id": 221402419, "osm_type": "way", "osm_id": 643974711, "lat": 32.87547165, "lon": -117.2209098112728, "display_name": "Piedra, Miramar Street, University City, San Diego, San Diego County, California, 92039, United States", "class": "building", "type": "apartments", "importance": 0.221 }, "geometry": { "type": "Polygon", "coordinates": [ [ [ -117.2216688, 32.8752979 ], [ -117.2210908, 32.8752877 ], [ -117.2210435, 32.8754326 ], [ -117.2210359, 32.875459 ], [ -117.2205914, 32.8753813 ], [ -117.2205582, 32.8755551 ], [ -117.221171, 32.8756568 ], [ -117.2212441, 32.8754748 ], [ -117.2212516, 32.8754577 ], [ -117.2216628, 32.8754685 ], [ -117.2216688, 32.8752979 ] ] ] } }
+]
+}
