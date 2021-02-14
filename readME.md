@@ -13,11 +13,12 @@
   - roadway connectivity
   - roadway resilience
 
-#### For example:
+#### Example: Camp Fire in Paradise, CA., 2018
+  - {Insert description of Camp Fire}
   - how long will it take the residents of Paradise, CA to evacuate during a wildfire?
   - how well are roadways connected in Paradise, CA?
   - how resilient are roadways in Paradise, CA to blockages?
-  {insert map}
+  - {insert interactive Unfolded map}
   
 ## Research
 
