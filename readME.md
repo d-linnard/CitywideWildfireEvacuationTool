@@ -1,61 +1,25 @@
-## Kepler.gl  Changed to Unfolded.ai
+# Welcome to {insert company/product name}
 
-http://vis.academy/#/kepler.gl/setup
+- Our **mission** is to help communities respond to wildfires by providing resources for planning and mitigation.
 
-Joint slack channel: https://unfolded.page.link/slack-signup
+## Motivation
 
-Step 1:
+#### Example: Camp Fire in Paradise, California, 2018
+  - {Insert description of Camp Fire}
+  - how long will it take the residents of Paradise, CA to evacuate during a wildfire?
+  - how well are roadways connected in Paradise, CA?
+  - how resilient are roadways in Paradise, CA to blockages?
+  <iframe width="100%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
+  
+## Services
+- We help state, local, and federal planners save lives by offering several products:
+  - evacuation times
+  - roadway connectivity
+  - roadway resilience
 
-https://reactjs.org/tutorial/tutorial.html
 
-Step 2:
-They recommend we use these links to get started:
-facebook/create-react-app
-https://docs.unfolded.ai/map-sdk/examples/use-with-react
+## Research
 
-## MapBox API
+## The Team
 
-pk.eyJ1Ijoia29vaG9uZyIsImEiOiJja2tyeThneTYzbDR3MnZudzZtMHdvd29jIn0.98Cv3ciGrez8C4aEcejwwQ
-
-## Objective
-
-> To display the result of the analysis via interactive map
-> react and kepler.gl
-  - city and roadway network information
-  - city level ranking based on statistics
-    - egress travel time
-    - roadway resiliance
-    - network connectivity
-    - based on fire risk
-    
-
-## System requirement:
-- install `Node js`
-- Need to have `text editor`
-
-### Set up
-
-- Steps 1:
-  - Go to the director where you will be creating react app (i.e., something that will take your data and display on the web).
-  - `create-react-app [name of your application]`
-  - `egress_summayr` is the folder name (i.e., app name)
-
-```{python}
-create-react-app egress_summary
-cd egress_summary
-npm start
-```
-
-`npm start` will start the webpage via your local terminal 
-
-- Steps 2:
-  - Install additional libraries 
-  - Form VS code, you can connect to terminal 
-  - 
-
-- Install bootstrap
-`npm` is program that I use to install `i` stands for install and the rest what needs to be installed
-
-```{cmd}
-npm i bootstrap@4.1.1
-```
+## Contact
