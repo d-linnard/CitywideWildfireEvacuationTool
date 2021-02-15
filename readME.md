@@ -4,7 +4,7 @@
 
 ## Motivation
 
-#### Example: Camp Fire in Paradise, California, 2018
+#### Camp Fire in Paradise, California, 2018
   - {Insert description of Camp Fire}
   - how long will it take the residents of Paradise, CA to evacuate during a wildfire?
   - how well are roadways connected in Paradise, CA?
