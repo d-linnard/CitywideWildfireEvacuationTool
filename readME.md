@@ -1,4 +1,4 @@
-# Welcome to {insert company/product name}
+# Welcome to the Citywide Wildfire Evacuation Time Estimation Tool
 
 - Our **mission** is to help communities respond to wildfires by providing resources for planning and mitigation.
 
