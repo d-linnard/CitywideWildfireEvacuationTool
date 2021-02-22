@@ -23,7 +23,7 @@
 ## Research
 
 ## The Team
-![image](/Images/KC.jpg){:height="24px" width="24px"}
-![image](/Images/DLW.jpg){:height="24px" width="24px"}
+![image](/Images/KC.jpg| height="24" width="24")
+![image](/Images/DLW.jpg| height="24" width="24")
 
 ## Contact
