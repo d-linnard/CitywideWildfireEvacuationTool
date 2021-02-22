@@ -23,7 +23,7 @@
 ## Research
 
 ## The Team
-<img src="egress_kelper/blob/main/Images/KC.jpg"/>
+<img src="egress_kelper/Images/KC.jpg" height="60" width="60"/>
 <img src="egress_kelper/blob/main/Images/RN.JPG" height="60" width="60"/> 
 <img src="egress_kelper/blob/main/Images/DLW.jpg" height="60" width="60"/> 
 
