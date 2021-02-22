@@ -24,6 +24,7 @@
 
 ## The Team
 <img src="https://github.com/d-linnard/egress_kelper/blob/main/Images/KC.jpg" height="60" width="60">
+<img src="https://github.com/d-linnard/egress_kelper/blob/main/Images/RN.JPG" height="60" width="60"> 
 <img src="https://github.com/d-linnard/egress_kelper/blob/main/Images/DLW.jpg" height="60" width="60"> 
 
 ## Contact
