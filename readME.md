@@ -9,7 +9,7 @@
   - how long will it take the residents of Paradise, CA to evacuate during a wildfire?
   - how well are roadways connected in Paradise, CA?
   - how resilient are roadways in Paradise, CA to blockages?
-  <iframe width="100%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
+  <iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
   
   
   
@@ -23,7 +23,7 @@
 ## Research
 
 ## The Team
-<img src="https://github.com/d-linnard/egress_kelper/tree/main/Images/KC.png" height="48" width="48">
-<img src="https://github.com/d-linnard/egress_kelper/tree/main/Images/KC.png" height="48" width="48">
+<img src="https://github.com/d-linnard/egress_kelper/tree/main/Images/KC.jpg" height="48" width="48">
+<img src="https://github.com/d-linnard/egress_kelper/tree/main/Images/DLW.jpg" height="48" width="48">
 
 ## Contact
