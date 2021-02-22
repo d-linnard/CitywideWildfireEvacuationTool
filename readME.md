@@ -23,7 +23,7 @@
 ## Research
 
 ## The Team
-![image](/Images/KC.jpg| height="100" width="100")
-![image](/Images/DLW.jpg| height="100" width="100")
+<img src="https://github.com/d-linnard/egress_kelper/tree/main/Images/KC.png" height="48" width="48">
+<img src="https://github.com/d-linnard/egress_kelper/tree/main/Images/KC.png" height="48" width="48">
 
 ## Contact
