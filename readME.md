@@ -5,9 +5,11 @@
 ## Motivation
 
 #### Camp Fire in Paradise, California, 2018
-  - In November of 2018, the town of Paradise California was consumed by the Camp Fire.
-  - 
-  - 
+  - In November of 2018, the [town of Paradise California was consumed by the Camp Fire](https://en.wikipedia.org/wiki/Camp_Fire_(2018)#Timeline).
+  <p align="center">
+  <img width="460" height="300" src="Images/CampFire.jpg">
+  </p>
+
   - how long will it take the residents of Paradise, CA to evacuate during a wildfire?
   - how well are roadways connected in Paradise, CA?
   - how resilient are roadways in Paradise, CA to blockages?
