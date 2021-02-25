@@ -23,6 +23,7 @@
 ## Research
 
 ## The Team
+
 |<img src="Images/KC.jpg" height="100" width="100"/>|
 |:--:| 
 | Bill |
