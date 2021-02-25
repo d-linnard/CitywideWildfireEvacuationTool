@@ -40,4 +40,6 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
 |:--:| 
 | David is an Assistant Professor at Washington State Univeserity. He tries to help farmers produce food crops without contributing to environmental degradation with data science tools. Like Bill and Rajiv, David expects to graduate from the MIDS program in April of 2021. |
 
+### Collaborators
+
 ## Contact
