@@ -28,15 +28,15 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
 
 ## The Team
 
-|<img src="Images/KC.jpg" height="100" width="100"/>|
+|<img src="Images/KC.jpg" height="200" width="200"/>|
 |:--:| 
 | Bill has BS, MS and Ph.D. from University of California at Berkeley in Civil and Environmental Engineering with emphasis in Transportation Engineering. Bill extensive experience in analyzing empirical data and evaluating the validity of the findings from transportation simulation studies. Bill expects to graduate from MIDS program in April of 2021. |
 
-|<img src="Images/RN.JPG" height="100" width="100"/>|
+|<img src="Images/RN.JPG" height="200" width="200"/>|
 |:--:| 
 | Rajiv has over 2 decades of experience in various leadership roles in financial services. His expertise is in trading and risk systems development. Rajiv expects to graduate from the MIDS program in spring 2021 |
 
-|<img src="Images/DLW.jpg" height="100" width="100"/>|
+|<img src="Images/DLW.jpg" height="200" width="200"/>|
 |:--:| 
 | David is an Assistant Professor at Washington State Univeserity. He studies fungi, plants, and their interactions. Like Bill and Rajiv, David expects to graduate from the MIDS program in April of 2021. |
 
