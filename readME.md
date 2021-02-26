@@ -9,19 +9,17 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
   <p align="center">
   <img width="460" height="300" src="Images/CampFire.jpg">
   </p>
-
-  - how long will it take the residents of Paradise, CA to evacuate during a wildfire?
-  - how well are roadways connected in Paradise, CA?
-  - how resilient are roadways in Paradise, CA to blockages?
-  <iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
-  
-  
+Since then the frequency and intensity of wildfires has increased in the United States (**INSERT CITATION**). To help decision makers across the US make informed decisions about evacuations during wildfires, we have created tools that:
+  - estimate the time needed to evacuate a city
+  - determine the connectivity of roadways within cities
+  - determine the resilience of roadway networks when areas are congested or occluded by obstacles
   
 ## Services
 - We help state, local, and federal planners save lives by offering several products:
-  - evacuation times
+  - evacuation times estimates
   - roadway connectivity
   - roadway resilience
+  <iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
 
 
 ## Research
@@ -39,6 +37,7 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
 |<img src="Images/DLW.jpg" height="200" width="200"/>|
 |:--:| 
 | David is an Assistant Professor at Washington State University. He helps farmers produce healthy crops with a variety of tools. Like Bill and Rajiv, David expects to graduate from the MIDS program in April of 2021. |
+
 
 ### Collaborators
 
