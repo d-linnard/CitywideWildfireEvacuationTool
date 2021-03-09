@@ -16,7 +16,7 @@ Since then the frequency and intensity of wildfires has increased in the United 
   
 ## Services
 The interface for these tools is provided by [Unfolded](https://www.unfolded.ai/).
-  <iframe width="100%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
+  <iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
 
 ## Research
 Currently, research efforts are focused on **X,Y,Z**
