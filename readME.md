@@ -9,7 +9,7 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
   <p align="center">
   <img width="460" height="300" src="Images/CampFire.jpg">
   </p>
-Since then the frequency and intensity of wildfires has increased in the United States (**INSERT CITATION**). To help decision makers across the US make informed decisions about evacuations during wildfires, we have created tools that:
+Since then the [frequency and intensity of wildfires has increased in the United States](https://www.ucsusa.org/resources/climate-change-and-wildfires). To help decision makers across the US make informed decisions about evacuations during wildfires, we have created tools that:
   - estimate the time needed to evacuate a city
   - determine the connectivity of roadways within cities
   - determine the resilience of roadway networks when areas are congested or occluded by obstacles
