@@ -36,5 +36,5 @@ Currently, research efforts are focused on estimating roadway capacities during 
 | David is an Assistant Professor at Washington State University. He helps farmers produce healthy crops with a variety of tools. Like Bill and Rajiv, David expects to graduate from the MIDS program in April of 2021. |
 
 
-## Contact
+## Contact 
  
