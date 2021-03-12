@@ -16,7 +16,7 @@ Since then the [frequency and intensity of wildfires has increased in the United
   
 ## Services
 The interface for these tools is provided by [Unfolded](https://www.unfolded.ai/).
-  <iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
+  <iframe width="175%" height="600px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>
   
 ## Research
 Currently, research efforts are focused on estimating roadway capacities during wildfire evacuations.
@@ -34,6 +34,10 @@ Currently, research efforts are focused on estimating roadway capacities during 
 |<img src="Images/DLW.jpg" height="200" width="200"/>|
 |:--:| 
 | David is an Assistant Professor at Washington State University. He helps farmers produce healthy crops with a variety of tools. Like Bill and Rajiv, David expects to graduate from the MIDS program in April of 2021. |
+
+## Collaborators
+
+## Sponsors
 
 ## Contact
  
