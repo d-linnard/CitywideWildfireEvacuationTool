@@ -44,6 +44,10 @@ Currently, research efforts are focused on estimating roadway capacities during 
 |:--:| 
 | Julian is a data analytics engineer at LOS, where he applies machine learning and statistical methods to improve hydraulic fracturing efficiency and safety in oilfields. He is passionate about working on data science projects that help create a better energy future and promote public health. Julian enjoys learning everything about programming, machine learning and AI. He obtained his data analytics training with a MicroMaster certificate from Georgia Institute of Technology. He likes practicing photography, biking and skiing in his spare time. |
 
+|<img src="Images/KAIST.jpg" height="200" width="200"/>|
+|:--:| 
+| Info about KAIST? |
+
 ## Sponsors
 
 ## Contact
