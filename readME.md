@@ -16,7 +16,7 @@ Since then the [frequency and intensity of wildfires has increased in the United
   
 ## Services
 The interface for these tools is provided by [Unfolded](https://www.unfolded.ai/).
-<iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>&nbsp;    
+<iframe width="175%" height="550px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>&nbsp;    
 ## Research
 Currently, research efforts are focused on estimating roadway capacities during wildfire evacuations.
 
@@ -35,6 +35,15 @@ Currently, research efforts are focused on estimating roadway capacities during 
 | David is an Assistant Professor at Washington State University. He helps farmers produce healthy crops with a variety of tools. Like Bill and Rajiv, David expects to graduate from the MIDS program in April of 2021. |
 
 ## Collaborators
+
+|<img src="Images/matthew_mcelhaney.jpg" height="200" width="200"/>|
+|:--:| 
+| Matthew McElhaney has experience as a Director of Technology and as the manager of Data Science and Data Engineering for a major oil company. Matthew implemented solutions including Augmented Reality, IoT, and Real Time Work Assignment/Route Optimization resulting in a 30% reduction in company operating costs. Matthew’s areas of interest include operations research and optimization. Prior to entering industry he served in the United States Army for five years as an infantry officer. |
+
+|<img src="Images/Julian.jpg" height="200" width="200"/>|
+|:--:| 
+| Julian is a data analytics engineer at LOS, where he applies machine learning and statistical methods to improve hydraulic fracturing efficiency and safety in oilfields. He is passionate about working on data science projects that help create a better energy future and promote public health. Julian enjoys learning everything about programming, machine learning and AI. He obtained his data analytics training with a MicroMaster certificate from Georgia Institute of Technology. He likes practicing photography, biking and skiing in his spare time. |
+
 
 ## Sponsors
 
