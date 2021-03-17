@@ -36,6 +36,15 @@ Currently, research efforts are focused on estimating roadway capacities during 
 
 ## Collaborators
 
+|<img src="Images/matthew_mcelhaney.jpg" height="200" width="200"/>|
+|:--:| 
+| Matthew McElhaney has experience as a Director of Technology and as the manager of Data Science and Data Engineering for a major oil company. Matthew implemented solutions including Augmented Reality, IoT, and Real Time Work Assignment/Route Optimization resulting in a 30% reduction in company operating costs. Matthew’s areas of interest include operations research and optimization. Prior to entering industry he served in the United States Army for five years as an infantry officer. |
+
+|<img src="Images/Julian.jpg" height="200" width="200"/>|
+|:--:| 
+| Julian is a data analytics engineer at LOS, where he applies machine learning and statistical methods to improve hydraulic fracturing efficiency and safety in oilfields. He is passionate about working on data science projects that help create a better energy future and promote public health. Julian enjoys learning everything about programming, machine learning and AI. He obtained his data analytics training with a MicroMaster certificate from Georgia Institute of Technology. He likes practicing photography, biking and skiing in his spare time. |
+
+
 ## Sponsors
 
 ## Contact
