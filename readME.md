@@ -36,7 +36,7 @@ Currently, research efforts are focused on estimating roadway capacities during 
 
 ## Collaborators
 
-|<img src="Images/matthew_mcelhaney.jpg" height="200" width="200"/>|
+|<img src="Images/Matthew.jpg" height="200" width="200"/>|
 |:--:| 
 | Matthew McElhaney has experience as a Director of Technology and as the manager of Data Science and Data Engineering for a major oil company. Matthew implemented solutions including Augmented Reality, IoT, and Real Time Work Assignment/Route Optimization resulting in a 30% reduction in company operating costs. Matthew’s areas of interest include operations research and optimization. Prior to entering industry he served in the United States Army for five years as an infantry officer. |
 
