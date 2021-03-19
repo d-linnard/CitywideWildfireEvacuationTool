@@ -48,7 +48,7 @@ Currently, research efforts are focused on estimating roadway capacities during 
 |:--:| 
 | Info about KAIST? |
 
-## Sponsors
+## Sponsors 
 
 ## Contact
  
