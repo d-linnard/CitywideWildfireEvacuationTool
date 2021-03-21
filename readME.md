@@ -1,6 +1,6 @@
 # Welcome to the Citywide Wildfire Evacuation Time Estimation Tool
 
-Our **mission** is to help communities respond to wildfires by providing resources for planning and mitigation.
+Our **mission** is to save lives using data science. For this project, we hope to help communities respond to wildfires by providing resources for planning and mitigation.
 
 ## Motivation
 
