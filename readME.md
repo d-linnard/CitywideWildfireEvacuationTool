@@ -27,7 +27,7 @@ Currently, research efforts are focused on estimating roadway capacities during 
 | Bill has BS, MS and Ph.D. from University of California at Berkeley in Civil and Environmental Engineering with emphasis in Transportation Engineering. Bill extensive experience in analyzing empirical data and evaluating the validity of the findings from transportation simulation studies. Bill expects to graduate from MIDS program in April of 2021. |
 
 |<img src="Images/RN.JPG" height="200" width="200"/>|
-|:--:| 
+|:--:|  
 | Rajiv has over 2 decades of experience in various leadership roles in financial services. His expertise is in trading and risk systems development. Rajiv expects to graduate from the MIDS program in spring 2021 |
 
 |<img src="Images/DLW.jpg" height="200" width="200"/>|
