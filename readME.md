@@ -40,7 +40,7 @@ Currently, research efforts are focused on estimating roadway capacities during 
 |:--:| 
 |<img src="Images/logo.png" height="200" width="200"/>|
 
-
+ 
 ## Sponsors 
 
 ## Contact
