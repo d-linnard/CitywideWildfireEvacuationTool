@@ -12,7 +12,7 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
 Since then the [frequency and intensity of wildfires has increased in the United States](https://www.ucsusa.org/resources/climate-change-and-wildfires). To help decision makers across the US make informed decisions about evacuations during wildfires, we have created tools that:
   - estimate the time needed to evacuate a city
   - determine the connectivity of roadways within cities
-    <img width="300" height="180" src="Images/Paradise-Connectivity.png">
+    <img width="300" height="160" src="Images/Paradise-Connectivity.png">
   - determine the resilience of roadway networks when areas are congested or occluded by obstacles
     <img width="300" height="180" src="Images/Paradise-Resilience.png">
   
