@@ -12,12 +12,10 @@ In November of 2018, the [town of Paradise California was consumed by the Camp F
 Since then the [frequency and intensity of wildfires has increased in the United States](https://www.ucsusa.org/resources/climate-change-and-wildfires). To help decision makers across the US make informed decisions about evacuations during wildfires, we have created tools that:
   - estimate the time needed to evacuate a city
   - determine the connectivity of roadways within cities
-    <img width="300" height="180" src="Images/Paradise-Connectivity.png">
   - determine the resilience of roadway networks when areas are congested or occluded by obstacles
-    <img width="300" height="180" src="Images/Paradise-Resilience.png">
   
 ## Services
-Evacuation time estimates, connectivity and resiliance metrics are supported by [Unfolded](https://www.unfolded.ai/).
+Evacuation time estimates, connectivity and resiliance metrics can be visualized with the interactive map below.
 <iframe width="175%" height="550px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>&nbsp;    
 ## Research
 Currently, research efforts are focused on estimating roadway capacities during wildfire evacuations.
