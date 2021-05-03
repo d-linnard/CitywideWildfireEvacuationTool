@@ -16,7 +16,7 @@ Since then the [frequency and intensity of wildfires has increased in the United
   
 ## Services
 Evacuation time estimates, connectivity and resiliance metrics can be visualized with the interactive map below.
-<iframe width="175%" height="550px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>&nbsp;    
+<iframe width="175%" height="500px" src="https://studio.unfolded.ai/public/ae438921-4fd0-471d-9c35-1ae853a8d123/embed" frameborder="0" allowfullscreen></iframe>&nbsp;    
 ## Research
 Currently, research efforts are focused on estimating roadway capacities during wildfire evacuations.
 
